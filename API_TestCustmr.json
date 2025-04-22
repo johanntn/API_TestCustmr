@@ -5,8 +5,8 @@
   "CompanyNumber": 1,
   "Email": "testi@email.com",
   "Name": "Testiyhtiö1",
-  "Latitude": 60,
-  "Longitude": 25
+  "Latitude": 60.169350393789585,
+  "Longitude": 24.933201877316485
 },
 {
   "Id": 2,
@@ -14,8 +14,8 @@
   "CompanyNumber": 2,
   "Email": "testi2@email.com",
   "Name": "Testiyhtiö2",
-   "Latitude": 60,
-  "Longitude": 25
+   "Latitude": 60.20524825362072, 
+  "Longitude": 24.77857038490022
 
 },
 {
@@ -24,8 +24,8 @@
   "CompanyNumber": 3,
   "Email": "testi3@email.com",
   "Name": "Testiyhtiö3",
-  "Latitude": 60,
-  "Longitude": 20
+  "Latitude": 60.45591958023121, 
+  "Longitude": 22.25812275324758
 
 },
 {
@@ -34,8 +34,8 @@
   "CompanyNumber": 4,
   "Email": "testi4@email.com",
   "Name": "Testiyhtiö4",
-  "Latitude": 70,
-  "Longitude": 25
+  "Latitude": 68.65290057446764, 
+  "Longitude": 27.542753610367367
 
 }
 ]
