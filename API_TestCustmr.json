@@ -4,27 +4,38 @@
   "City": "Helsinki",
   "CompanyNumber": 1,
   "Email": "testi@email.com",
-  "Name": "Testiyhtiö1"
+  "Name": "Testiyhtiö1",
+  "Latitude": 60,
+  "Longitude": 25
 },
 {
   "Id": 2,
   "City": "Espoo",
   "CompanyNumber": 2,
   "Email": "testi2@email.com",
-  "Name": "Testiyhtiö2"
+  "Name": "Testiyhtiö2",
+   "Latitude": 60,
+  "Longitude": 25
+
 },
 {
   "Id": 3,
   "City": "Turku",
   "CompanyNumber": 3,
   "Email": "testi3@email.com",
-  "Name": "Testiyhtiö3"
+  "Name": "Testiyhtiö3",
+  "Latitude": 60,
+  "Longitude": 20
+
 },
 {
   "Id": 4,
   "City": "Ivalo",
   "CompanyNumber": 4,
   "Email": "testi4@email.com",
-  "Name": "Testiyhtiö4"
+  "Name": "Testiyhtiö4",
+  "Latitude": 70,
+  "Longitude": 25
+
 }
 ]
