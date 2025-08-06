@@ -3,7 +3,7 @@
   "Id": 1,
   "City": "Helsinki",
   "CompanyNumber": 1,
-  "Email": "testi@email.com",
+  "Email": "tytti.nystrom@gmail.com",
   "Name": "Testiyhtiö1",
   "Latitude": 60.169350393789585,
   "Longitude": 24.933201877316485
@@ -12,8 +12,8 @@
   "Id": 2,
   "City": "Espoo",
   "CompanyNumber": 2,
-  "Email": "testi2@email.com",
-  "Name": "Testiyhtiö2",
+  "Email": "johanna.nystrom@origos.fi",
+  "Name": "Origos Oy",
    "Latitude": 60.20524825362072, 
   "Longitude": 24.77857038490022
 
@@ -22,8 +22,8 @@
   "Id": 3,
   "City": "Turku",
   "CompanyNumber": 3,
-  "Email": "testi3@email.com",
-  "Name": "Testiyhtiö3",
+  "Email": "no-reply@accounts.google.com",
+  "Name": "Googel",
   "Latitude": 60.45591958023121, 
   "Longitude": 22.25812275324758
 
